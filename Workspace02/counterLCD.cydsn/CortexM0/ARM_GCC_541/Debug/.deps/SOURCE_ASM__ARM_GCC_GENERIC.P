@@ -1,0 +1,8 @@
+C:/Users/0/Documents/PSoC\ Creator/Workspace02/counterLCD.cydsn/CortexM0/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Users/0/Documents/PSoC\ Creator/Workspace02/counterLCD.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/Users/0/Documents/PSoC\ Creator/Workspace02/counterLCD.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/0/Documents/PSoC\ Creator/Workspace02/counterLCD.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/Users/0/Documents/PSoC\ Creator/Workspace02/counterLCD.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/Users/0/Documents/PSoC\ Creator/Workspace02/counterLCD.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/Users/0/Documents/PSoC\ Creator/Workspace02/counterLCD.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

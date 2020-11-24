@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace02\counterLCD\Source Files\main.c">
+<ExpandedNodeIds>
+<v>Workspace02</v>
+<v>Workspace02\counterLCD</v>
+<v>Workspace02\counterLCD\TopDesign</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr\Pins</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr\Analog</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr\Clocks</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr\Interrupts</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr\System</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr\Directives</v>
+<v>Workspace02\counterLCD\counterLCD.cydwr\Flash Security</v>
+<v>Workspace02\counterLCD\Header Files</v>
+<v>Workspace02\counterLCD\Header Files\cyapicallbacks.h</v>
+<v>Workspace02\counterLCD\Source Files</v>
+<v>Workspace02\counterLCD\Source Files\main.c</v>
+<v>Workspace02\counterLCD\Generated_Source</v>
+<v>Workspace02\counterLCD\Generated_Source\PSoC4</v>
+<v>Workspace02\counterLCD\Generated_Source\PSoC4\Pin_36</v>
+<v>Workspace02\counterLCD\Generated_Source\PSoC4\Pin_37</v>
+<v>Workspace02\Ds1307</v>
+<v>Workspace02\Ds1307\TopDesign</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr\Pins</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr\Analog</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr\Clocks</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr\Interrupts</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr\System</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr\Directives</v>
+<v>Workspace02\Ds1307\Ds1307.cydwr\Flash Security</v>
+<v>Workspace02\Ds1307\Header Files</v>
+<v>Workspace02\Ds1307\Header Files\ds1307.h</v>
+<v>Workspace02\Ds1307\Header Files\main.h</v>
+<v>Workspace02\Ds1307\Source Files</v>
+<v>Workspace02\Ds1307\Source Files\ds1307.c</v>
+<v>Workspace02\Ds1307\Source Files\main.c</v>
+<v>Workspace02\Ds1307\Generated_Source</v>
+<v>Workspace02\Ds1307\Generated_Source\PSoC4</v>
+<v>Workspace02\Ds1307\Generated_Source\PSoC4\Timer_1</v>
+<v>Workspace02\Ds1307\Generated_Source\PSoC4\UART</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Workspace02</v>
+<v>Workspace02\counterLCD</v>
+<v>Workspace02\counterLCD\TopDesign</v>
+<v>Workspace02\counterLCD\TopDesign\TopDesign.cysch</v>
+<v>Workspace02\Ds1307</v>
+<v>Workspace02\Ds1307\TopDesign</v>
+<v>Workspace02\Ds1307\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Workspace02</v>
+<v>Workspace02\counterLCD</v>
+<v>Workspace02\counterLCD\CortexM0</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_35.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_35_PM.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_36.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_36_PM.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_37.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_37_PM.lst</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\counterLCD.elf</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\counterLCD.hex</v>
+<v>Workspace02\counterLCD\CortexM0\ARM_GCC_541\Debug\counterLCD.map</v>
+<v>Workspace02\counterLCD\counterLCD.gpdsc</v>
+<v>Workspace02\counterLCD\counterLCD.rpt</v>
+<v>Workspace02\counterLCD\counterLCD_timing.html</v>
+<v>Workspace02\Ds1307</v>
+<v>Workspace02\Ds1307\CortexM0</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_intClock.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_2.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_3.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\ds1307.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_BOOT.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_INT.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_MASTER.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCBCLK.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\isr_rx.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\LCD.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\LCD_BarGraph.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\LCD_LCDPort.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\LCD_LCDPort_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\LCD_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\LM35.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\LM35_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_7Seg.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_7Seg_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Ctrl.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Ctrl_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_pwm1.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_pwm1_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_pwm2.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_pwm2_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM_1.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM_1_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM_2.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM_2_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\RTC.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_1.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_1_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Ds1307.elf</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Ds1307.hex</v>
+<v>Workspace02\Ds1307\CortexM0\ARM_GCC_541\Debug\Ds1307.map</v>
+<v>Workspace02\Ds1307\Ds1307.gpdsc</v>
+<v>Workspace02\Ds1307\Ds1307.rpt</v>
+<v>Workspace02\Ds1307\Ds1307_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Workspace02</v>
+<v>Workspace02\counterLCD</v>
+<v>Workspace02\counterLCD\PSoC 4 Architecture TRM</v>
+<v>Workspace02\counterLCD\PSoC 4200 Family Datasheet</v>
+<v>Workspace02\counterLCD\System Reference Guides</v>
+<v>Workspace02\counterLCD\System Reference Guides\cy_boot_v5_81</v>
+<v>Workspace02\counterLCD\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Workspace02\counterLCD\cy_pins_v2_20</v>
+<v>Workspace02\counterLCD\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Workspace02\Ds1307</v>
+<v>Workspace02\Ds1307\PSoC 4 Architecture TRM</v>
+<v>Workspace02\Ds1307\PSoC 4200 Family Datasheet</v>
+<v>Workspace02\Ds1307\System Reference Guides</v>
+<v>Workspace02\Ds1307\System Reference Guides\cy_boot_v5_81</v>
+<v>Workspace02\Ds1307\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Workspace02\Ds1307\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>Workspace02\Ds1307\CharLCD_v2_20.pdf</v>
+<v>Workspace02\Ds1307\cy_clock_v2_20</v>
+<v>Workspace02\Ds1307\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>Workspace02\Ds1307\cy_isr_v1_70</v>
+<v>Workspace02\Ds1307\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>Workspace02\Ds1307\cy_pins_v2_20</v>
+<v>Workspace02\Ds1307\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Workspace02\Ds1307\RTC_P4_v1_30.pdf</v>
+<v>Workspace02\Ds1307\SCB_P4_v4_0.pdf</v>
+<v>Workspace02\Ds1307\TCPWM_P4_v2_10</v>
+<v>Workspace02\Ds1307\TCPWM_P4_v2_10\TCPWM_P4_v2_10.pdf</v>
+<v>Workspace02\Ds1307\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Ds1307.cydsn\Generated_Source\PSoC4\LCD.h" />
+<name v=".\Ds1307.cydsn\main.c" />
+<name v=".\Ds1307.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Ds1307.cydsn\Ds1307.cydwr" />
+<name v=".\Ds1307.cydsn\ds1307.h" />
+<name v=".\Ds1307.cydsn\ds1307.c" />
+<name v=".\Ds1307.cydsn\main.h" />
+<name v=".\Ds1307.cydsn\Generated_Source\PSoC4\I2C.c" />
+<name v=".\Ds1307.cydsn\Generated_Source\PSoC4\isr_rx.c" />
+<name v=".\Ds1307.cydsn\Generated_Source\PSoC4\UART.c" />
+<name v=".\Ds1307.cydsn\Generated_Source\PSoC4\UART.h" />
+<name v=".\Ds1307.cydsn\Generated_Source\PSoC4\PWM_1.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1391, 711" SelectedTabbedMdiWindow="0e8d43d6-9356-41e5-b00c-f7fbe9367c2e"><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\Generated_Source\PSoC4\LCD.h" Guid="eed21398-67cd-4f5f-a6ac-afd47fea563c" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\main.c" Guid="0e8d43d6-9356-41e5-b00c-f7fbe9367c2e" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\TopDesign\TopDesign.cysch" Guid="6f509657-bfb6-4b65-9d66-dc60f0c63766" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\Ds1307.cydwr" Guid="7594eab5-1e76-470d-8c4e-69f9c8b3d306" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\ds1307.h" Guid="5ab4eafc-c9cb-43fa-98fd-6c7f8e4d2a57" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\ds1307.c" Guid="1557e497-14e7-4753-b319-08fc2441c82b" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\main.h" Guid="1cb56076-c8ff-4cc8-ab92-56116b2a0748" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\Generated_Source\PSoC4\I2C.c" Guid="52c14c0b-186d-40aa-b1ac-54b495165434" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c6df63d9-ae17-4a4c-9fa9-726ed60e76f8" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\Generated_Source\PSoC4\isr_rx.c" Guid="cfc677e9-0f35-458a-acac-b522b84b9e0b" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\Generated_Source\PSoC4\UART.c" Guid="d0871235-c9fa-4f77-976d-cd4c4a3a52a2" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\Generated_Source\PSoC4\UART.h" Guid="e0c34b60-de5f-449c-a7d1-382e96f62639" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace02\Ds1307.cydsn\Generated_Source\PSoC4\PWM_1.h" Guid="5901be81-ebdb-427d-b048-f46f9cdcfb61" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

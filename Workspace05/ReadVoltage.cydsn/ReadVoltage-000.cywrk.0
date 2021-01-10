@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ReadVoltage-000\ReadVoltage\Source Files\main.c">
+<ExpandedNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\TopDesign</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Pins</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Analog</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\DMA</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Clocks</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Interrupts</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\System</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Directives</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Flash Security</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD\c64enh_font.h</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD\st7920_spi.c</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD\st7920_spi.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\clock.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\cyapicallbacks.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\display.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\PowerAnalyzer.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\trace.h</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\clock.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\display.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\main.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\PowerAnalyzer.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\trace.c</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\MUX_A</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\TopDesign</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Pins</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Analog</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\DMA</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Clocks</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Interrupts</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\System</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Directives</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.cydwr\Flash Security</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD\c64enh_font.h</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD\st7920_spi.c</v>
+<v>ReadVoltage-000\ReadVoltage\GLCD\st7920_spi.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\clock.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\cyapicallbacks.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\display.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\PowerAnalyzer.h</v>
+<v>ReadVoltage-000\ReadVoltage\Header Files\trace.h</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\clock.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\display.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\main.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\PowerAnalyzer.c</v>
+<v>ReadVoltage-000\ReadVoltage\Source Files\trace.c</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\ADC</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\ADC_intClock</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\ADC_IRQ</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\Clock_1</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\cy_boot</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\cy_dmac</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\cy_lfclk</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\GLCD_CS</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\GLCD_PSB</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\GLCD_RST</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\GLCD_SPIM</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\GLCD_SPIM_mosi_m</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\GLCD_SPIM_SCBCLK</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\GLCD_SPIM_sclk_m</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\I3_ADC</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\isr_1</v>
+<v>ReadVoltage-000\ReadVoltage\Generated_Source\PSoC4\L3_ADC</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\TopDesign</v>
+<v>ReadVoltage-000\ReadVoltage\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\TopDesign</v>
+<v>ReadVoltage-000\ReadVoltage\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_intClock.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\clock.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\display.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_CS.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_CS_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_PSB.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_PSB_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_RST.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_RST_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_BOOT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_mosi_m.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_mosi_m_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SCBCLK.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_sclk_m.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_sclk_m_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SPI.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SPI_BOOT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SPI_UART.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\I3_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\I3_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\L3_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\L3_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\MUX_A.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\MUX_A_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\MUX_B.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\MUX_B_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\MUX_C.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\MUX_C_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\N_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\N_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\NL_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\NL_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\PowerAnalyzer.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\st7920_spi.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_1.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_1_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\trace.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\U_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\U_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\V_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\V_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\W_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\W_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\X1_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\X1_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\ReadVoltage.elf</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\ReadVoltage.hex</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\ReadVoltage.map</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.gpdsc</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage.rpt</v>
+<v>ReadVoltage-000\ReadVoltage\ReadVoltage_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_intClock.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\clock.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\display.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_CS.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_CS_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_PSB.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_PSB_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_RST.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_RST_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_BOOT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_mosi_m.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_mosi_m_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SCBCLK.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_sclk_m.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_sclk_m_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SPI.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SPI_BOOT.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\GLCD_SPIM_SPI_UART.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\I3_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\I3_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\L3_ADC.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\L3_ADC_PM.lst</v>
+<v>ReadVoltage-000\ReadVoltage\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\PSoC 4 Architecture TRM</v>
+<v>ReadVoltage-000\ReadVoltage\PSoC 4200M Family Datasheet</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides\cy_boot_v5_81</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides\cy_dmac_v1_10</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides\cy_lfclk_v1_20</v>
+<v>ReadVoltage-000\ReadVoltage\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\cy_clock_v2_20.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\cy_isr_v1_70.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\cy_pins_v2_20</v>
+<v>ReadVoltage-000\ReadVoltage\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\SCB_P4_v4_0</v>
+<v>ReadVoltage-000\ReadVoltage\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\TCPWM_P4_v2_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ReadVoltage-000</v>
+<v>ReadVoltage-000\ReadVoltage</v>
+<v>ReadVoltage-000\ReadVoltage\PSoC 4 Architecture TRM</v>
+<v>ReadVoltage-000\ReadVoltage\PSoC 4200M Family Datasheet</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides\cy_boot_v5_81</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides\cy_dmac_v1_10</v>
+<v>ReadVoltage-000\ReadVoltage\System Reference Guides\cy_lfclk_v1_20</v>
+<v>ReadVoltage-000\ReadVoltage\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\cy_clock_v2_20.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\cy_isr_v1_70.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\cy_pins_v2_20</v>
+<v>ReadVoltage-000\ReadVoltage\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\SCB_P4_v4_0</v>
+<v>ReadVoltage-000\ReadVoltage\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+<v>ReadVoltage-000\ReadVoltage\TCPWM_P4_v2_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\ReadVoltage.cydwr" />
+<name v=".\Generated_Source\PSoC4\CyBootAsmGnu.s" />
+<name v=".\Generated_Source\PSoC4\ADC.c" />
+<name v=".\PowerAnalyzer.h" />
+<name v=".\PowerAnalyzer.c" />
+<name v=".\trace.h" />
+<name v=".\trace.c" />
+<name v=".\cyapicallbacks.h" />
+<name v=".\Generated_Source\PSoC4\cm0gcc.ld" />
+<name v=".\st7920_spi.c" />
+<name v=".\st7920_spi.h" />
+<name v=".\c64enh_font.h" />
+<name v=".\display.h" />
+<name v=".\display.c" />
+<name v=".\clock.h" />
+<name v=".\clock.c" />
+<name v=".\Generated_Source\PSoC4\MUX_A.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1608, 631" SelectedTabbedMdiWindow="8559f976-fc1c-470d-8c27-2f97dbb2a08d"><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\main.c" Guid="8559f976-fc1c-470d-8c27-2f97dbb2a08d" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\TopDesign\TopDesign.cysch" Guid="39b8752a-60e9-4341-998f-6ad7f6a510c3" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\ReadVoltage.cydwr" Guid="84b51919-7bb2-45cc-833d-5a611e360f2c" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\Generated_Source\PSoC4\CyBootAsmGnu.s" Guid="0fbf0c74-66f9-4174-8e62-656ed2d58244" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\Generated_Source\PSoC4\ADC.c" Guid="d88a28f6-f016-444b-8e16-e656cb689439" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\PowerAnalyzer.h" Guid="b05adfc0-db36-45ed-9a65-dd0d634dc1c5" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\PowerAnalyzer.c" Guid="dab0aed1-4019-4fd4-9a2f-3b500227afca" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\trace.h" Guid="529aeef8-34c3-42fe-aa87-0b779165c914" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\trace.c" Guid="0345285c-5f2b-49eb-b993-c1f492e9fd9e" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\cyapicallbacks.h" Guid="09e2a0f6-ad8e-4b32-8392-8597b3471674" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\Generated_Source\PSoC4\cm0gcc.ld" Guid="339691f3-291e-4747-89b6-4aa17d4580fd" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\st7920_spi.c" Guid="5aa6b832-f214-4d5d-b651-e07f0be3647a" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\st7920_spi.h" Guid="9bccbdd9-5f38-4781-bb89-5eed5ba351a0" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\c64enh_font.h" Guid="7e2d0cca-7782-446b-98d6-a520d74d0a2b" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\display.h" Guid="9284a171-6840-47fd-9afa-6ed52e478764" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\display.c" Guid="12f5a009-aaa3-4846-af00-fef823a5683a" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\clock.h" Guid="8262fa57-fa1f-49de-a132-d35e40e4afd7" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\clock.c" Guid="9f86d860-730b-44d6-af8a-f25f8a01e211" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c6df63d9-ae17-4a4c-9fa9-726ed60e76f8" /><DocumentWindow Key="C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\Generated_Source\PSoC4\MUX_A.c" Guid="683337c0-009e-4e0b-9ff8-8291ff387803" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

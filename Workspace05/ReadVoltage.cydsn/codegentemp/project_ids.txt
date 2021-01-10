@@ -1,0 +1,6 @@
+C:\Users\0\Documents\PSoC Creator\Workspace05\ReadVoltage.cydsn\ReadVoltage.cyprj|7968ecda-d668-4db2-ace0-58b16e0793ce
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d45da31c-c248-48bc-9d35-40672a06bfff
+C:\Users\0\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|b8f56dc2-3706-46bc-b062-3bc51c65b6c4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|8de1d871-0702-4c7e-a97a-45367625ba71
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|d28794f0-c5b1-43a7-b098-f0ee7878e862
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|582673be-7a61-4613-a7d1-ddc4b7fbaf29
